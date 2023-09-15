@@ -8,32 +8,22 @@
 
 ### Skills 🛠️
 
-<div>
-  <img align="left" alt="Linux" width="23px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
-  <img align="left" alt="Kotlin" width="25px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
-  <img align="left" alt="Typescript" width="23px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
-  <img align="left" alt="Node.js" width="49px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
+<div style="float: left; width: 33%;">
+  <img alt="Linux" width="23px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
+  <img alt="Kotlin" width="25px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
 </div>
-<br/>
 
-<div>
-  <img align="left" alt="JavaScript" width="23px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img align="left" alt="React.js" width="23px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
-  <img align="left" alt="Python" width="23px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
-  <img align="left" alt="Next.js" width="23px" src="https://raw.githubusercontent.com/ijsto/reactnextjssnippets/master/images/logo02.png" />
+<div style="float: left; width: 33%;">
+  <img alt="Typescript" width="23px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
+  <img alt="Node.js" width="49px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
 </div>
-<br/>
 
-<div>
-  <img align="left" alt="Express" width="23px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
-  <img align="left" alt="Symfony" width="23px" src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" />
-  <img align="left" alt="Angular" width="23px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
-  <img align="left" alt="Ionic" width="23px" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" />
-  <img align="left" alt="Java" width="23px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-  <img align="left" alt="Sequelize" width="23px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" />
-  <img align="left" alt="PHP" width="23px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />
+<div style="float: left; width: 33%;">
+  <img alt="JavaScript" width="23px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img alt="React.js" width="23px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 </div>
-<br/>
+
+<div style="clear: both;"></div>
 
 # Senzo13
 
