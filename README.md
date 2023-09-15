@@ -8,7 +8,7 @@
 
 ### Skills 🛠️
 
-<div style="float: left; width: 48%;">
+<div style="float: left; width: 48%; margin:2px;">
   <img alt="Linux" width="33px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
   <img alt="Kotlin" width="35px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
     <img alt="Typescript" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
@@ -17,7 +17,7 @@
   <img alt="Symfony" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" />
 </div>
 
-<div style="float: left; width: 48%;">
+<div style="float: left; width: 48%; margin:2px;">
     <img alt="Node.js" width="59px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
   <img alt="React.js" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
    <img alt="Angular" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
