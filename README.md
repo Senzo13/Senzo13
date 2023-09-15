@@ -8,7 +8,7 @@
 
 ### Skills 🛠️
 
-<div style="float: left; width: 48%; margin:2px;">
+<div style="float: left; width: 49%; margin:2px;">
   <img alt="Linux" width="33px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
   <img alt="Kotlin" width="35px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
     <img alt="Typescript" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
