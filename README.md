@@ -8,7 +8,7 @@
 
 ### Skills 🛠️
 
-<div>
+<div align="left">
   <img align="left" alt="Linux" width="23px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
   <img align="left" alt="Kotlin" width="25px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
   <img align="left" alt="Typescript" width="23px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
@@ -17,7 +17,7 @@
   <img align="left" alt="React.js" width="23px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
   <img align="left" alt="Python" width="23px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
   </div>
-  <div>
+<div align="left">
   <img align="left" alt="Express" width="23px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
   <img align="left" alt="Symfony" width="23px" src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" />
   <img align="left" alt="Angular" width="23px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
@@ -33,6 +33,6 @@
 <div align="left">
  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senzo13&show_icons=true&layout=compact&theme=algolia" alt="Senzo13's github stats" />
 </div>
-<div align="left" style="margin-left:25px;">
+<div align="center" style="margin-left:25px;">
  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=Senzo13" />
 </div>
