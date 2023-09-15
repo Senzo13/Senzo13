@@ -13,12 +13,17 @@
   <img align="left" alt="Kotlin" width="25px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
   <img align="left" alt="Typescript" width="23px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
   <img align="left" alt="Node.js" width="49px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
+</div>
+<br/>
+
+<div align="left">
   <img align="left" alt="JavaScript" width="23px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img align="left" alt="React.js" width="23px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
   <img align="left" alt="Python" width="23px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
-  </div>
-  <div>
-  </div>
+  <img align="left" alt="Next.js" width="23px" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" />
+</div>
+<br/>
+
 <div align="left">
   <img align="left" alt="Express" width="23px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
   <img align="left" alt="Symfony" width="23px" src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" />
