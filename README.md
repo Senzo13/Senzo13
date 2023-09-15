@@ -30,7 +30,7 @@
 
 # Senzo13
 
-<div align="left">
- <img width="57%" style="margin-bottom:3px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Senzo13" />
+<div style="display:flex;align-items:center;justify-content:center;">
+ <img width="57%" src="https://github-readme-streak-stats.herokuapp.com/?user=Senzo13" />
  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senzo13&show_icons=true&layout=compact&theme=algolia" alt="Senzo13's github stats" />
 </div>
