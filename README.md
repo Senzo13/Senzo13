@@ -10,20 +10,20 @@
 
 <div style="float: left; width: 48%;">
   <img alt="Linux" width="33px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
-  <img alt="Kotlin" width="35px" style="margin-left:2px;" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
-    <img alt="Typescript" width="33px" style="margin-left:2px;" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
-      <img alt="JavaScript" width="33px" style="margin-left:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-     <img alt="Sequelize" width="33px" style="margin-left:2px;" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" />
-  <img alt="Symfony" width="33px" style="margin-left:2px;" src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" />
+  <img alt="Kotlin" width="35px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
+    <img alt="Typescript" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
+      <img alt="JavaScript" width="33px" style="margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+     <img alt="Sequelize" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" />
+  <img alt="Symfony" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" />
 </div>
 
 <div style="float: left; width: 48%;">
     <img alt="Node.js" width="59px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
-  <img alt="React.js" width="33px" style="margin-left:2px;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
-   <img alt="Angular" width="33px" style="margin-left:2px;" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
-  <img alt="Ionic" width="33px" style="margin-left:2px;" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" />
-  <img alt="Java" width="33px" style="margin-left:2px;" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-      <img alt="PHP" width="33px" style="margin-left:2px;" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />
+  <img alt="React.js" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+   <img alt="Angular" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
+  <img alt="Ionic" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" />
+  <img alt="Java" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+      <img alt="PHP" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />
 </div>
 
 <div style="clear: both;"></div>
