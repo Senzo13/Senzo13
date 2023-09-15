@@ -14,6 +14,7 @@
     <img alt="Typescript" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
       <img alt="JavaScript" width="33px" style="margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img alt="Symfony" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" />
+        <img alt="PHP" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />
 </div>
 
 <div style="float: left; width: 48%; margin:2px;">
@@ -22,7 +23,6 @@
    <img alt="Angular" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
   <img alt="Ionic" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" />
   <img alt="Java" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-      <img alt="PHP" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />
 </div>
 
 <div style="clear: both;"></div>
