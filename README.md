@@ -13,7 +13,6 @@
   <img alt="Kotlin" width="35px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
     <img alt="Typescript" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
       <img alt="JavaScript" width="33px" style="margin:2px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-     <img alt="Sequelize" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" />
   <img alt="Symfony" width="33px" style="margin:2px;" src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" />
 </div>
 
