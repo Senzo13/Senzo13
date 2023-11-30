@@ -27,7 +27,7 @@
 <div style="clear: both;"></div>
 
 # Senzo13
-
+[![committers.top badge](https://user-badge.committers.top/france/Senzo13.svg)](https://user-badge.committers.top/france/Senzo13)
 <div style="display:flex;align-items:center;justify-content:center;">
  <img width="57%" src="https://github-readme-streak-stats.herokuapp.com/?user=Senzo13" />
  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senzo13&show_icons=true&layout=compact&theme=algolia" alt="Senzo13's github stats" />
