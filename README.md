@@ -30,40 +30,22 @@
 <!-- TICTACTOE_START -->
 <table align="center">
   <tr>
-    <td align="center" width="80" height="80">
-      <a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C0%7C0&body=I'm%20playing%20Tic-Tac-Toe!%20Placing%20X%20at%20row%200%2C%20col%200."><img src="https://img.shields.io/badge/➖-%20-2d333b?style=for-the-badge" width="60" height="60"/></a>
-    </td>
-    <td align="center" width="80" height="80">
-      <a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C0%7C1&body=I'm%20playing%20Tic-Tac-Toe!%20Placing%20X%20at%20row%200%2C%20col%201."><img src="https://img.shields.io/badge/➖-%20-2d333b?style=for-the-badge" width="60" height="60"/></a>
-    </td>
-    <td align="center" width="80" height="80">
-      <a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C0%7C2&body=I'm%20playing%20Tic-Tac-Toe!%20Placing%20X%20at%20row%200%2C%20col%202."><img src="https://img.shields.io/badge/➖-%20-2d333b?style=for-the-badge" width="60" height="60"/></a>
-    </td>
+    <td align="center"><a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C0%7C0&body=Just+click+Submit!">:white_large_square:</a></td>
+    <td align="center"><a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C0%7C1&body=Just+click+Submit!">:white_large_square:</a></td>
+    <td align="center"><a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C0%7C2&body=Just+click+Submit!">:white_large_square:</a></td>
   </tr>
   <tr>
-    <td align="center" width="80" height="80">
-      <a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C1%7C0&body=I'm%20playing%20Tic-Tac-Toe!%20Placing%20X%20at%20row%201%2C%20col%200."><img src="https://img.shields.io/badge/➖-%20-2d333b?style=for-the-badge" width="60" height="60"/></a>
-    </td>
-    <td align="center" width="80" height="80">
-      <a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C1%7C1&body=I'm%20playing%20Tic-Tac-Toe!%20Placing%20X%20at%20row%201%2C%20col%201."><img src="https://img.shields.io/badge/➖-%20-2d333b?style=for-the-badge" width="60" height="60"/></a>
-    </td>
-    <td align="center" width="80" height="80">
-      <a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C1%7C2&body=I'm%20playing%20Tic-Tac-Toe!%20Placing%20X%20at%20row%201%2C%20col%202."><img src="https://img.shields.io/badge/➖-%20-2d333b?style=for-the-badge" width="60" height="60"/></a>
-    </td>
+    <td align="center"><a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C1%7C0&body=Just+click+Submit!">:white_large_square:</a></td>
+    <td align="center"><a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C1%7C1&body=Just+click+Submit!">:white_large_square:</a></td>
+    <td align="center"><a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C1%7C2&body=Just+click+Submit!">:white_large_square:</a></td>
   </tr>
   <tr>
-    <td align="center" width="80" height="80">
-      <a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C2%7C0&body=I'm%20playing%20Tic-Tac-Toe!%20Placing%20X%20at%20row%202%2C%20col%200."><img src="https://img.shields.io/badge/➖-%20-2d333b?style=for-the-badge" width="60" height="60"/></a>
-    </td>
-    <td align="center" width="80" height="80">
-      <a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C2%7C1&body=I'm%20playing%20Tic-Tac-Toe!%20Placing%20X%20at%20row%202%2C%20col%201."><img src="https://img.shields.io/badge/➖-%20-2d333b?style=for-the-badge" width="60" height="60"/></a>
-    </td>
-    <td align="center" width="80" height="80">
-      <a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C2%7C2&body=I'm%20playing%20Tic-Tac-Toe!%20Placing%20X%20at%20row%202%2C%20col%202."><img src="https://img.shields.io/badge/➖-%20-2d333b?style=for-the-badge" width="60" height="60"/></a>
-    </td>
+    <td align="center"><a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C2%7C0&body=Just+click+Submit!">:white_large_square:</a></td>
+    <td align="center"><a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C2%7C1&body=Just+click+Submit!">:white_large_square:</a></td>
+    <td align="center"><a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C2%7C2&body=Just+click+Submit!">:white_large_square:</a></td>
   </tr>
 </table>
-<p align="center"><b>Current turn: ❌ X</b> — Click an empty cell to play!</p>
+<p align="center"><b>Current turn: :x: X</b> — Click a white square to play!</p>
 <!-- TICTACTOE_END -->
 
 <p align="center">
