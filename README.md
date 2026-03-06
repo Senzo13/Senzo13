@@ -81,12 +81,13 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Senzo13&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&icon_color=6e40c9&title_color=6e40c9&text_color=ffffff" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Senzo13&theme=2077" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Senzo13&theme=tokyonight&background=0d1117&hide_border=true&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senzo13&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=6e40c9&text_color=ffffff" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Senzo13&theme=2077" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Senzo13&theme=2077" />
 </p>
 
 ---
