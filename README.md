@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/github/followers/Senzo13?style=for-the-badge&color=6e40c9&labelColor=0d1117" alt="Followers"/>
   </a>
   <a href="https://github.com/Senzo13?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Senzo13?style=for-the-badge&color=6e40c9&labelColor=0d1117" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/Senzo13?affiliations=OWNER&style=for-the-badge&color=6e40c9&labelColor=0d1117" alt="Stars"/>
   </a>
 </p>
 
@@ -74,24 +74,24 @@
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
-<h3>⚡ Main Stack</h3>
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=ts,js,react,angular,nodejs,kotlin,symfony,nextjs&theme=dark" /></a>
+<p align="center"><b>⚡ Main Stack</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,angular,nodejs,kotlin,symfony,nextjs&theme=dark" />
 </p>
 
-<h3>🗄️ Backend & Databases</h3>
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,mysql,postgres,mongodb,firebase&theme=dark" /></a>
+<p align="center"><b>🗄️ Backend & Databases</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,mysql,postgres,mongodb,firebase&theme=dark" />
 </p>
 
-<h3>🎨 Frontend & Design</h3>
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,figma,react,vue,svelte&theme=dark" /></a>
+<p align="center"><b>🎨 Frontend & Design</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,figma,react,vue,svelte&theme=dark" />
 </p>
 
-<h3>🔧 DevOps & Tools</h3>
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker,linux,git,aws,heroku,postman,vscode,github&theme=dark" /></a>
+<p align="center"><b>🔧 DevOps & Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,aws,heroku,postman,vscode,github&theme=dark" />
 </p>
 
 ---
@@ -145,14 +145,6 @@
 <p align="center">
   <b>If you like what you see, drop a ⭐ and hit that Follow button!</b><br>
   <sub>Every star motivates me to build more cool open-source stuff 🚀</sub>
-</p>
-
----
-
-<h2 align="center">🏆 Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Senzo13&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" />
 </p>
 
 ---
