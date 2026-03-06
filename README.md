@@ -1,24 +1,32 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Senzo13&fontColor=ffffff&fontSize=75&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Epitech%20M2&descSize=18&descAlignY=55"/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Lorenzo%20Giralt&fontColor=ffffff&fontSize=50&fontAlignY=50&desc=Full-Stack%20Developer%20%C2%B7%20Epitech%20M2&descSize=16&descAlignY=75&descColor=8b949e&animation=fadeIn"/>
-
-<p>
+<p align="center">
   <a href="https://github.com/Senzo13">
-    <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+clean+software+from+the+south+of+France;Full-Stack+%C2%B7+React+%C2%B7+Node+%C2%B7+TypeScript+%C2%B7+Kotlin;Always+shipping%2C+always+learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hey+%F0%9F%91%8B+I'm+Lorenzo;Full-Stack+Developer+from+South+of+France;Building+cool+stuff+since+day+one;Let's+connect+and+build+together!" alt="Typing SVG" />
   </a>
 </p>
 
-<a href="https://www.linkedin.com/in/lorenzo-giralt/?locale=en_US">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="22"/>
-</a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Senzo13&style=flat-square&color=0d1117&label=views" height="22"/>
-<a href="https://github.com/Senzo13?tab=followers">
-  <img src="https://img.shields.io/github/followers/Senzo13?style=flat-square&color=0d1117&labelColor=0d1117&logo=github&logoColor=8b949e" height="22"/>
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Senzo13&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Profile Views"/>
+  <a href="https://github.com/Senzo13?tab=followers">
+    <img src="https://img.shields.io/github/followers/Senzo13?style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Followers"/>
+  </a>
+  <a href="https://github.com/Senzo13?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Senzo13?affiliations=OWNER&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Stars"/>
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lorenzo-giralt/?locale=en_US" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-<br/>
+---
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="28" />&nbsp; About Me
+</h2>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr><td>
@@ -36,26 +44,40 @@ const lorenzo = {
 </td></tr>
 </table>
 
-<br/>
+---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="22" />&nbsp; Tech Stack
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" />&nbsp; Tech Arsenal
 </h2>
 
+<p align="center"><b>Main Stack</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,nodejs,kotlin,symfony&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=express,nestjs,php,mysql,postgres,mongodb,firebase,redis&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,figma,docker,git,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,angular,nodejs,kotlin,symfony,nextjs&theme=dark" />
 </p>
 
-<br/>
+<p align="center"><b>Backend & Databases</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,mysql,postgres,mongodb,firebase&theme=dark" />
+</p>
+
+<p align="center"><b>Frontend & Design</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,figma,react,vue,svelte&theme=dark" />
+</p>
+
+<p align="center"><b>DevOps & Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,aws,heroku,postman,vscode,github&theme=dark" />
+</p>
+
+---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="22" />&nbsp; Stats
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" />&nbsp; GitHub Stats
 </h2>
 
 <p align="center">
-  <img width="58%" src="https://github-readme-streak-stats.herokuapp.com/?user=Senzo13&theme=dark&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=484f58" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Senzo13&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </p>
 
 <p align="center">
@@ -64,27 +86,13 @@ const lorenzo = {
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Senzo13&theme=github_dark" />
 </p>
 
-<br/>
+---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="22" />&nbsp; Contribution Graph
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" width="28" />&nbsp; Let's Play Tic-Tac-Toe!
 </h2>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Senzo13/Senzo13/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Senzo13/Senzo13/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Senzo13/Senzo13/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
-<br/>
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" width="22" />&nbsp; Tic-Tac-Toe
-</h2>
-
-<p align="center"><sub>Click a cell to play — it opens a GitHub Issue and the board updates automatically</sub></p>
+<p align="center"><sub>Click on a cell to make your move — it creates a GitHub Issue, and the board updates automatically!</sub></p>
 
 <!-- TICTACTOE_START -->
 <table align="center">
@@ -107,10 +115,28 @@ const lorenzo = {
 <p align="center"><b>Current turn: :o: O</b> — Click a white square to play!</p>
 <!-- TICTACTOE_END -->
 
-<br/>
+<p align="center">
+  <sub>Star this repo & follow me to discover more interactive stuff!</sub>
+</p>
+
+---
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" width="22" />&nbsp; Community
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" />&nbsp; Watch My Contributions Get Eaten
+</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Senzo13/Senzo13/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Senzo13/Senzo13/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Senzo13/Senzo13/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" width="28" />&nbsp; Community
 </h2>
 
 <!-- FOLLOWERS_START -->
@@ -184,12 +210,19 @@ const lorenzo = {
 </table>
 <!-- FOLLOWERS_END -->
 
-<br/>
+<p align="center">
+  <b>If you like what you see, drop a star and hit that Follow button!</b><br>
+  <sub>Every star motivates me to build more cool open-source stuff</sub>
+</p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Senzo13&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=1f6feb&area=true&hide_border=true&custom_title=Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Senzo13&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=1f6feb&area=true&hide_border=true" />
 </p>
 
 <!-- TIMESTAMP_START -->
 <p align="right"><sub>Last updated: Fri Mar 6 at 16:15 UTC</sub></p>
 <!-- TIMESTAMP_END -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer"/>
