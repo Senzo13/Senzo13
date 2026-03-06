@@ -13,11 +13,11 @@
     [
       "",
       "",
-      ""
+      "O"
     ]
   ],
-  "turn": "O",
-  "moves": 1,
+  "turn": "X",
+  "moves": 2,
   "status": "playing",
-  "last_player": "Senzo13"
+  "last_player": "AdisonPDO"
 }

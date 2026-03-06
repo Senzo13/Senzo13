@@ -109,10 +109,10 @@ const lorenzo = {
   <tr>
     <td align="center"><a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C2%7C0&body=Just+click+Submit!">:white_large_square:</a></td>
     <td align="center"><a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C2%7C1&body=Just+click+Submit!">:white_large_square:</a></td>
-    <td align="center"><a href="https://github.com/Senzo13/Senzo13/issues/new?title=tictactoe%7Cmove%7C2%7C2&body=Just+click+Submit!">:white_large_square:</a></td>
+    <td align="center">:o:</td>
   </tr>
 </table>
-<p align="center"><b>Current turn: :o: O</b> — Click a white square to play!</p>
+<p align="center"><b>Current turn: :x: X</b> — Click a white square to play!</p>
 <!-- TICTACTOE_END -->
 
 <p align="center">
