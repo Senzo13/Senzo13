@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Senzo13">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=520&lines=Hey+%F0%9F%91%8B+I'm+Lorenzo;Full-Stack+Developer+from+South+of+France;Building+cool+stuff+since+day+one;Let's+connect+and+build+together!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=700&lines=Hey+%F0%9F%91%8B+I'm+Lorenzo;Full-Stack+Developer+from+South+of+France;Building+cool+stuff+since+day+one;Let's+connect+and+build+together!" alt="Typing SVG" />
   </a>
 </p>
 
