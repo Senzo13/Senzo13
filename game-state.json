@@ -1,7 +1,7 @@
 {
   "board": [
     [
-      "",
+      "X",
       "",
       ""
     ],
@@ -16,8 +16,8 @@
       ""
     ]
   ],
-  "turn": "X",
-  "moves": 0,
+  "turn": "O",
+  "moves": 1,
   "status": "playing",
-  "last_player": ""
+  "last_player": "Senzo13"
 }
