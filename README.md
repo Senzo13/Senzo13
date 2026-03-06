@@ -81,21 +81,13 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/Senzo13">
-    <img width="325" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Senzo13&theme=2077" />
-  </a>
-  <a href="https://github.com/Senzo13">
-    <img width="325" src="https://github-readme-streak-stats.herokuapp.com/?user=Senzo13&theme=tokyonight&background=0d1117&hide_border=true&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9" />
-  </a>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Senzo13&theme=tokyonight&background=0d1117&hide_border=true&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Senzo13">
-    <img width="325" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Senzo13&theme=2077" />
-  </a>
-  <a href="https://github.com/Senzo13">
-    <img width="325" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Senzo13&theme=2077" />
-  </a>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Senzo13&theme=2077" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Senzo13&theme=2077" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Senzo13&theme=2077" />
 </p>
 
 ---
