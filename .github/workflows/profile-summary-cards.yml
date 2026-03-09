@@ -21,7 +21,7 @@ jobs:
           UTC_OFFSET: 1
           AUTO_PUSH: false
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
 
       - name: Push to branch
         uses: crazy-max/ghaction-github-pages@v4
@@ -31,4 +31,4 @@ jobs:
           keep_history: true
           commit_message: "Update profile summary cards"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
