@@ -24,25 +24,22 @@
 
 ---
 
+
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="28" />&nbsp; About Me
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" />&nbsp; GitHub Stats
 </h2>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr><td>
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Senzo13&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</p>
 
-```js
-const lorenzo = {
-    location: "South of France",
-    education: "Epitech M2",
-    stack: ["TypeScript", "React", "Node.js", "Kotlin", "Next.js"],
-    currently: "Building cool stuff & learning every day",
-    fun_fact: "I made a macOS clone in pure HTML/CSS/JS"
-};
-```
+<p align="center">
+  <img width="32%" src="https://raw.githubusercontent.com/Senzo13/Senzo13/github-profile-summary-cards/github_dark/3-stats.svg" />
+  <img width="32%" src="https://raw.githubusercontent.com/Senzo13/Senzo13/github-profile-summary-cards/github_dark/1-repos-per-language.svg" />
+  <img width="32%" src="https://raw.githubusercontent.com/Senzo13/Senzo13/github-profile-summary-cards/github_dark/2-most-commit-language.svg" />
+</p>
 
-</td></tr>
-</table>
+
 
 ---
 
@@ -71,21 +68,6 @@ const lorenzo = {
 </p>
 
 ---
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" />&nbsp; GitHub Stats
-</h2>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Senzo13&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</p>
-
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Senzo13&theme=github_dark" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Senzo13&theme=github_dark" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Senzo13&theme=github_dark" />
-</p>
-
 ---
 
 <h2 align="center">
