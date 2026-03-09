@@ -19,16 +19,6 @@ jobs:
           USERNAME: Senzo13
           BRANCH_NAME: github-profile-summary-cards
           UTC_OFFSET: 1
-          AUTO_PUSH: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
-
-      - name: Push to branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: github-profile-summary-cards
-          build_dir: profile-summary-card-output
-          keep_history: true
-          commit_message: "Update profile summary cards"
+          AUTO_PUSH: true
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
