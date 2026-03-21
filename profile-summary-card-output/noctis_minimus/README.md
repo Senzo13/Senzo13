@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Senzo13/Senzo13/main/profile-summary-card-output/noctis_minimus/4-productive-time.svg)
+```
+
+    

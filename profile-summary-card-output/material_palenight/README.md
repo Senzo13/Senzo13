@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Senzo13/Senzo13/main/profile-summary-card-output/material_palenight/4-productive-time.svg)
+```
+
+    
