@@ -130,7 +130,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center">15</td>
+      <td align="center">14</td>
       <td align="center">
         <a href="https://github.com/Noubouille">
           <img src="https://avatars.githubusercontent.com/u/19411520?v=4&s=40" alt="Noubouille" width="40" height="40"/>
@@ -141,7 +141,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">14</td>
+      <td align="center">13</td>
       <td align="center">
         <a href="https://github.com/dioptx">
           <img src="https://avatars.githubusercontent.com/u/20043465?v=4&s=40" alt="dioptx" width="40" height="40"/>
@@ -152,7 +152,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">13</td>
+      <td align="center">12</td>
       <td align="center">
         <a href="https://github.com/mykcarrazzone">
           <img src="https://avatars.githubusercontent.com/u/37234958?v=4&s=40" alt="mykcarrazzone" width="40" height="40"/>
@@ -163,7 +163,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">12</td>
+      <td align="center">11</td>
       <td align="center">
         <a href="https://github.com/AdisonPDO">
           <img src="https://avatars.githubusercontent.com/u/52446207?v=4&s=40" alt="AdisonPDO" width="40" height="40"/>
@@ -174,7 +174,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">11</td>
+      <td align="center">10</td>
       <td align="center">
         <a href="https://github.com/cyril-bancq">
           <img src="https://avatars.githubusercontent.com/u/90612891?v=4&s=40" alt="cyril-bancq" width="40" height="40"/>
@@ -185,7 +185,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">16</td>
+      <td align="center">15</td>
       <td align="center" colspan="2"><b>Maybe You?</b> <sub>(updated every hour)</sub></td>
     </tr>
   </tbody>
@@ -204,7 +204,7 @@
 </p>
 
 <!-- TIMESTAMP_START -->
-<p align="right"><sub>Last updated: Sun Aug 2 at 13:34 UTC</sub></p>
+<p align="right"><sub>Last updated: Sun Aug 2 at 15:04 UTC</sub></p>
 <!-- TIMESTAMP_END -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer"/>
